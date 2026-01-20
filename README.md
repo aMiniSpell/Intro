@@ -31,8 +31,8 @@
 <body>
     <div class="container">
         <header class="main-info">
-            <h1>[Brandon Scarano]</h1>
-            <h1>Preferred Name: [Your Preferred Name]</h1>
+            <h1>Brandon Scarano</h1>
+            <h1>Preferred Name: Brandon</h1>
         </header>
 
         <section class="lewis">
