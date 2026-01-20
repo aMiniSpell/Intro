@@ -36,7 +36,7 @@
         </header>
 
         <section class="lewis">
-			<h2>Year at Lewis: [I transferred this previous fall semester and I'm currently a junior]</h2>
+			<h2>Year at Lewis: I transferred this previous fall semester and I'm currently a junior</h2>
 			<h2>Lewis major/minor/concentrations: [I am a mathematics major]</h2>
 			<h2>Reasons for pursuing this degree: [I was undecided for the entire duration before I transferred but I had been tutoring math courses since returning to college. While transferring I applied to be a math tutor at Lewis which was the kick in the head to pursue more about the field of mathematics.]</h2>
         </section>
